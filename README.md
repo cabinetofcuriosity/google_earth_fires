@@ -6,7 +6,7 @@ Information about California wildfires can be found on the GEE database and visu
 
 # Data
 
-The `data` folder contains `SoCal_fires.csv`, which is a .CSV of California wildfire data from September 1st, 2017 to September 1st, 2018. This data is derived from NASA's Fire Information for Resource Management Systems (FIRMS). Information about the columns can be found [here](https://earthdata.nasa.gov/earth-observation-data/near-real-time/firms/c6-mcd14dl).
+The `data` folder contains `SoCal_fires.csv`, which is a .CSV of California wildfire data from September 1st, 2017 to September 1st, 2018. The file `ca1718.csv` is a file containing data from California's 2017-2018 fire season (October-April). This data is derived from NASA's Fire Information for Resource Management Systems (FIRMS). Information about the columns can be found [here](https://earthdata.nasa.gov/earth-observation-data/near-real-time/firms/c6-mcd14dl).
 
 # Code
 
